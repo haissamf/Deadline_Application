@@ -14,7 +14,15 @@ Users can do certain encounters like registering how much they progressed at a c
 You can run the project by starting a new Project on flutter, and then changing the source code in the lib directory, and also carefully change pubspec.yaml file according to the one uploaded.
 
 
+## Application screenshots
+
 ![](UI%20images/1.jpg)
+![](UI%20images/2.jpg)
+![](UI%20images/3.jpg)
+![](UI%20images/4.jpg)
+![](UI%20images/5.jpg)
+![](UI%20images/6.jpg)
+
 
 
 ## bugs and under-development widgets
