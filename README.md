@@ -13,8 +13,8 @@ Users can do certain encounters like registering how much they progressed at a c
 ## Running the project on your platform
 You can run the project by starting a new Project on flutter, and then changing the source code in the lib directory, and also carefully change pubspec.yaml file according to the one uploaded.
 
-##bugs and under-development widgets
+## bugs and under-development widgets
 The app is not fully developed yet it is in testing stage and fixing encountered bugs. Also, more features like Medals ( awarding users with medals and skins when commited to finishing tasks) and Statistics ( show users how well they do compared to past) are being developed and will be updated soon.
 
-##Google Play and App Store Release Date
+## Google Play and App Store Release Date
 Store release date is set to 10th October 2022
