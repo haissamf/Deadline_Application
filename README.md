@@ -16,12 +16,34 @@ You can run the project by starting a new Project on flutter, and then changing 
 
 ## Application screenshots
 
+Main screen
+
 ![](UI%20images/1.jpg)
+
+When add button (plus icon) is clicked, form screen will show up to add the task title and due date and time
+
 ![](UI%20images/2.jpg)
+
+Date and time bar style
+
 ![](UI%20images/3.jpg)
+
+Final look before adding
+
 ![](UI%20images/4.jpg)
+
+New task and counter card is added to the main page
+
 ![](UI%20images/5.jpg)
+
+User can tap a task card that will bring them to that task's screen, where they can register how much they progressed so far
+
 ![](UI%20images/6.jpg)
+
+Final look after regestering progress
+
+![](UI%20images/7.jpg)
+
 
 
 
